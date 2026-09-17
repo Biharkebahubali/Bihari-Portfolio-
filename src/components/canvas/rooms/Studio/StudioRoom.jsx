@@ -864,4 +864,3 @@ const MonitorBlock = memo(({ item, meshRef, isSelected, onMonitorClick, disabled
 });
 
 export default StudioRoom;
-
